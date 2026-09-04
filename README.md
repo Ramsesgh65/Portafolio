@@ -40,7 +40,7 @@ Highlights:
 Dispersión de variación de GPA vs. horas de uso de IA
 Segmentación por carrera, año académico y nivel de habilidad
 Análisis de riesgo de burnout y dependencia percibida
-
+Dashboard Interactivo en Tableau Public: https://public.tableau.com/views/ImpactodelaInteligenciaArtificialenelRendimientoyBienestarEstudiantil/ImpactodelaInteligenciaArtificialenelRendimientoyBienestarEstudiantil?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 🛠 Tecnologías utilizadas
 Tableau / Power BI / Excel (Tablas dinámicas y modelado de datos)
