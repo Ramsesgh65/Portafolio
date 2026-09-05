@@ -24,7 +24,7 @@ Dashboard de ventas con filtros dinámicos por región, canal de venta, tipo de 
 Highlights:
 KPIs de revenue total por año, trimestre, mes y día
 Análisis de ingresos por categoría de producto y canal de venta
-Ranking de productos top por ingresos generados.
+Ranking de productos top por ingresos generados.\
 Dashboard interactivo en OneDrive: https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AfPg2i-NKLu50WNHv4jbSt8?e=MWnPkP
 ---
 👟 Ventas de Tenis de Coleccionista – Diferencial de Precios | EXCEL
