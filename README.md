@@ -16,6 +16,7 @@ Highlights:
 Filtros por mes, trimestre y semestre
 Seguimiento de metas mensuales de ingresos y egresos
 Visualización de saldo mensual por tipo de flujo de caja
+Dashboard interactivo en App.powerbi:https://app.powerbi.com/links/BHYXKLe7JI?ctid=3ae3c7c7-ea51-46de-9540-12f4110eac9b&pbi_source=linkShare
 ---
 📈 Sales Dashboard | EXCEL
 ![Sales Dashboard](./Sales-Dashboard/image.png)
