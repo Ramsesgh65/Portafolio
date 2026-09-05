@@ -10,7 +10,7 @@ Tecnologías utilizadas
 Contacto
 ---
 💰 Dashboard de Flujo de Caja 2023
-![Dashboard de Flujo de Caja](./dashboard-flujo-caja.png)
+![Dashboard de Flujo de Caja](./Flujo-de-Caja/dashboard-flujo-caja.png)
 Dashboard financiero interactivo que monitorea el flujo de caja mensual, distinguiendo entre actividades de financiamiento, inversión y operación. Incluye KPIs clave (saldo operativo, endeudamiento neto, ratio efectivo), cumplimiento de metas de ingresos/egresos y desglose de las principales fuentes de ingreso y gasto.
 Highlights:
 Filtros por mes, trimestre y semestre
@@ -18,7 +18,7 @@ Seguimiento de metas mensuales de ingresos y egresos
 Visualización de saldo mensual por tipo de flujo de caja
 ---
 📈 Sales Dashboard
-![Sales Dashboard](./assets/sales-dashboard.png)
+![Sales Dashboard](./Sales-Dashboard/sales-dashboard.png)
 Dashboard de ventas con filtros dinámicos por región, canal de venta, tipo de cliente y categoría de producto. Visualiza el revenue total, su evolución mensual, la distribución por región/canal y el top 5 de productos más vendidos, permitiendo un análisis comercial completo y segmentado.
 Highlights:
 KPIs de revenue total por año, trimestre, mes y día
@@ -26,7 +26,7 @@ Análisis de ingresos por categoría de producto y canal de venta
 Ranking de productos top por ingresos generados
 ---
 👟 Ventas de Tenis de Coleccionista – Diferencial de Precios
-![Ventas de Tenis de Coleccionista](./assets/tenis-coleccionista.png)
+![Ventas de Tenis de Coleccionista](./Venta-Tenis/tenis-coleccionista.png)
 Análisis comparativo de precios de reventa entre marcas (Nike vs Adidas) para tenis de colección, con filtros por año y modelo. Muestra la evolución del diferencial de precio en el tiempo, un ranking de modelos mejor valuados y el diferencial porcentual por modelo.
 Highlights:
 Comparativa histórica de precios por marca
