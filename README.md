@@ -34,7 +34,7 @@ Ranking de modelos con mayor valorización
 Diferencial de precio en USD y en porcentaje por modelo
 ---
 🤖 Impacto de la IA en el Rendimiento y Bienestar Estudiantil
-![Impacto de la IA en Estudiantes](./assets/impacto-ia-estudiantes.png)
+![Impacto de la IA en Estudiantes](./Impacto-IA/impacto-ia-estudiantes.png)
 Dashboard analítico que explora la relación entre el uso de IA generativa (horas semanales) y el desempeño académico (GPA) de estudiantes, segmentado por carrera, nivel de habilidad en prompt engineering y riesgo de burnout. Incluye correlaciones, tendencias y niveles de dependencia percibida.
 Highlights:
 Dispersión de variación de GPA vs. horas de uso de IA
