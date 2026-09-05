@@ -33,7 +33,7 @@ Análisis comparativo de precios de reventa entre marcas (Nike vs Adidas) para t
 Highlights:
 Comparativa histórica de precios por marca
 Ranking de modelos con mayor valorización
-Diferencial de precio en USD y en porcentaje por modelo.
+Diferencial de precio en USD y en porcentaje por modelo.\
 Dashboard interactivo en OneDrive: https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AfPg2i-NKLu50WNHv4jbSt8?e=MWnPkP
 ---
 🤖 Impacto de la IA en el Rendimiento y Bienestar Estudiantil | TABLEAU
@@ -42,7 +42,7 @@ Dashboard analítico que explora la relación entre el uso de IA generativa (hor
 Highlights:
 Dispersión de variación de GPA vs. horas de uso de IA
 Segmentación por carrera, año académico y nivel de habilidad
-Análisis de riesgo de burnout y dependencia percibida.
+Análisis de riesgo de burnout y dependencia percibida.\
 Dashboard Interactivo en Tableau Public: https://public.tableau.com/views/ImpactodelaInteligenciaArtificialenelRendimientoyBienestarEstudiantil/ImpactodelaInteligenciaArtificialenelRendimientoyBienestarEstudiantil?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 🛠 Tecnologías utilizadas
