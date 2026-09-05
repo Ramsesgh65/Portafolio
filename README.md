@@ -15,7 +15,7 @@ Dashboard financiero interactivo que monitorea el flujo de caja mensual, disting
 Highlights:
 Filtros por mes, trimestre y semestre
 Seguimiento de metas mensuales de ingresos y egresos
-Visualización de saldo mensual por tipo de flujo de caja.
+Visualización de saldo mensual por tipo de flujo de caja.\
 Dashboard interactivo en App.powerbi:https://app.powerbi.com/links/BHYXKLe7JI?ctid=3ae3c7c7-ea51-46de-9540-12f4110eac9b&pbi_source=linkShare
 ---
 📈 Sales Dashboard | EXCEL
