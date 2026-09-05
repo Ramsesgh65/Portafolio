@@ -10,7 +10,7 @@ Tecnologías utilizadas
 Contacto
 ---
 💰 Dashboard de Flujo de Caja 2023
-![Dashboard de Flujo de Caja](./assets/dashboard-flujo-caja.png)
+![Dashboard de Flujo de Caja](./dashboard-flujo-caja.png)
 Dashboard financiero interactivo que monitorea el flujo de caja mensual, distinguiendo entre actividades de financiamiento, inversión y operación. Incluye KPIs clave (saldo operativo, endeudamiento neto, ratio efectivo), cumplimiento de metas de ingresos/egresos y desglose de las principales fuentes de ingreso y gasto.
 Highlights:
 Filtros por mes, trimestre y semestre
