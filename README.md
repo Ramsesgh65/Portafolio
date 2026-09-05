@@ -1,5 +1,6 @@
 📊 Portafolio de Dashboards de Análisis de Datos\
-Colección de dashboards interactivos desarrollados para visualizar, analizar y comunicar insights de negocio a partir de datos financieros, comerciales y de comportamiento. Cada proyecto incluye filtros dinámicos, KPIs clave y visualizaciones diseñadas para facilitar la toma de decisiones.
+Colección de dashboards interactivos desarrollados para visualizar, analizar y comunicar insights de negocio a partir de datos financieros, comerciales y de comportamiento. \
+Cada proyecto incluye filtros dinámicos, KPIs clave y visualizaciones diseñadas para facilitar la toma de decisiones.
 ---
 🧭 Índice\
 Dashboard de Flujo de Caja 2023\
@@ -7,7 +8,7 @@ Sales Dashboard\
 Ventas de Tenis de Coleccionista – Diferencial de Precios\
 Impacto de la IA en el Rendimiento y Bienestar Estudiantil\
 Tecnologías utilizadas\
-Contacto\
+Contacto
 ---
 💰 Dashboard de Flujo de Caja 2023 | POWER BI\
 ![Dashboard de Flujo de Caja](./Flujo-de-Caja/dashboard-flujo-caja.png)
