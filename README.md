@@ -26,7 +26,7 @@ Highlights:
 KPIs de revenue total por año, trimestre, mes y día
 Análisis de ingresos por categoría de producto y canal de venta
 Ranking de productos top por ingresos generados.\
-Dashboard interactivo en OneDrive: https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AfPg2i-NKLu50WNHv4jbSt8?e=MWnPkP
+Dashboard interactivo en OneDrive: [https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AfPg2i-NKLu50WNHv4jbSt8?e=MWnPkP](https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AQ1nuwNaIhosP0XVACDnvvE?e=eSTboa)
 ---
 👟 Ventas de Tenis de Coleccionista – Diferencial de Precios | EXCEL\
 ![Ventas de Tenis de Coleccionista](./Venta-Tenis/tenis-coleccionista.png)
@@ -35,7 +35,7 @@ Highlights:
 Comparativa histórica de precios por marca
 Ranking de modelos con mayor valorización
 Diferencial de precio en USD y en porcentaje por modelo.\
-Dashboard interactivo en OneDrive: https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AfPg2i-NKLu50WNHv4jbSt8?e=MWnPkP
+Dashboard interactivo en OneDrive: [https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AfPg2i-NKLu50WNHv4jbSt8?e=MWnPkP](https://1drv.ms/f/c/b276070a1286865a/IgB38DgTFn6nRITLjwfovF13AQ1nuwNaIhosP0XVACDnvvE?e=eSTboa)
 ---
 🤖 Impacto de la IA en el Rendimiento y Bienestar Estudiantil | TABLEAU\
 ![Impacto de la IA en Estudiantes](./Impacto-IA/image.png)
